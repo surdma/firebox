@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "404829787591",
+    "project_id": "firebox-16146",
+    "storage_bucket": "firebox-16146.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404829787591:android:2cce29f1916048157935e2",
+        "android_client_info": {
+          "package_name": "com.odtro.fire_box"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404829787591-6i2ogr4ftekk6tilnb4ef81ndel41kmv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.odtro.fire_box",
+            "certificate_hash": "816f23bb723444a07c61be771487e13ef19672b3"
+          }
+        },
+        {
+          "client_id": "404829787591-1a2h47dtasg8ik7r7dku1mbbdk6dhm5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD_GyhGz-WiRbdIdbuloLARh4VWce3KQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404829787591-1a2h47dtasg8ik7r7dku1mbbdk6dhm5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
